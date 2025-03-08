@@ -1,16 +1,13 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&width=435&lines=hi+im+cry;i+am+a+python+dev;%40boxd+on+cord)](https://git.io/typing-svg)
 
-<!--
-**xvqa/xvqa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ![PROFILE VIEWS](https://komarev.com/ghpvc/?username=vehf&label=PROFILE+VIEWS&color=red&style=flat-square)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🕸️ About Me
+```python
+class Cry:
+    def __init__(self):
+        self.name = "Cry"
+        self.projects = ["Cry x Muz Client"]
+        self.interests = ["Bot Development", "Security"]
+        self.team = ["Muz"]
