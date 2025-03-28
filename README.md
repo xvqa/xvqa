@@ -8,6 +8,6 @@
 class Cry:
     def __init__(self):
         self.name = "Cry"
-        self.projects = ["Cry x Muz Client"]
+        self.projects = ["Cry x Kids Client"]
         self.interests = ["Bot Development", "Security"]
-        self.team = ["Muz"]
+        self.team = ["x"]
