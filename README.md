@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**xvqa/xvqa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&width=435&lines=hi+im+cry;i+am+a+python+dev;%40boxd+on+cord)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ![PROFILE VIEWS](https://komarev.com/ghpvc/?username=vehf&label=PROFILE+VIEWS&color=red&style=flat-square)
+
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Red_star.svg/220px-Red_star.svg.png" width="147"/> 
+
+
+```csharp
+github.com/xvqa
+dc   $  @boxd
+srv  $  discord.gg/proud
+```
